@@ -6,8 +6,14 @@
 
 ### nest g service users
 
+> npm run start:dev
+
 Databases
 
 ### TypeORM / SQLite
 
-> npm run start:dev
+### SQLite / extension - sqlite explorer
+
+Routes
+
+### REST Client - file in /users/requests.http
